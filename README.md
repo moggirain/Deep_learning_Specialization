@@ -1,8 +1,9 @@
 # Deep_learning_Specialization
 This is a repository that archived the programming assignments and projects I conducted in Andrew NG's Coursera deep learning specialization.
 
-***Deep Learning is transforming multiple industries.***
-Course Description: 
+***Deep Learning is transforming multiple industries.*** <br>
+
+### Course Description: 
 This five-course specialization will help you understand Deep Learning fundamentals, apply them, and build a career in AI.
 
 Course 1
